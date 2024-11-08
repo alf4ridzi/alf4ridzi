@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **Rust, C++, Java**
 - 💬 Ask me about **Python, Software Engineering**
 
-- ⚡ Fun fact **i like coffe. and drink it 2 times a day**
-
 <div> <a href="https://github.com/alf4ridzi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/alfr.dz1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
